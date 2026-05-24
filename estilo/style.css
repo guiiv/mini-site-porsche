@@ -384,6 +384,25 @@ button:hover{
 }
 
 
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+footer p {
+    border-top: 1px solid rgba(0, 0, 0, 0.199);
+    color: #333333;
+    text-align: center;
+    padding: 10px;
+}
+
+footer a{
+    text-decoration: none;
+
+}
+
 
 
 
